@@ -1,7 +1,7 @@
 //
 // Reversi Game
 // By: Gordon Lin
-// This program implements the Reversi game using the provided AI move algorithm. 
+// This program implements the Reversi board game using a simple opponent move algorithm. 
 //
 
 #include <stdio.h>
